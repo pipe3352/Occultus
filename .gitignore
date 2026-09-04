@@ -1,0 +1,14 @@
+# Segreti
+.env
+.env.local
+.env.*.local
+
+# Rust
+/target
+
+# Chiavi private generate a runtime
+assets/private_keys/
+
+# Next.js / Node
+node_modules/
+.next/
